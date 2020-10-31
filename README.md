@@ -7,4 +7,4 @@
 - 💬 Ask me about magic, math, physhics, control theory, electronics, philosophy
 - 📫 How to reach me: @a3l
 - 😄 Pronouns: your choice
-- ⚡ Fun fact: I can memorize a deck of cards in 4 minutes!
+- ⚡ Fun fact: I can memorize a deck of cards in 4 minutes because I sold my soul to do specifically that
