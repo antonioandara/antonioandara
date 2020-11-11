@@ -7,4 +7,4 @@
 - 💬 Ask me about magic, math, physhics, control theory, electronics, philosophy
 - 📫 How to reach me: @a3l
 - 😄 Pronouns: your choice
-- ⚡ Fun fact: I play the guitar
+- ⚡ Fun fact: I play the guitar and know cad tricks
