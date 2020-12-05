@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with web3
 - 💬 Ask me about magic, math, physhics, control theory, electronics, philosophy
 - 📫 How to reach me: @a3l
-- ⚡ Fun fact: I can memorize stuff very quickly!!
+- ⚡ Fun fact: I can memorize stuff!!
