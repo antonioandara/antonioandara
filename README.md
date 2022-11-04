@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on open source projects related to cryptocurrencies and distributed systems
-- 👯 I’m looking to collaborate on web3, crypto currencies, and open source projects
-- 🤔 I’m looking for help with web3
-- 💬 Ask me about magic, math, physhics, control theory, electronics, philosophy
+- 🔭 I’m currently working on open source projects related to Blockchain and distributed systems
+- 👯 I’m looking to collaborate on web3 and open source projects
+- 🤔 I’m looking for help with cryptography
+- 💬 Ask me about Sleight of Hand, Maths, Physhics, Digital Systems, Control Theory, Electronics, Blockchain, Philosophy
 - 📫 How to reach me: @a3l
 - ⚡ Fun fact: I can memorize stuff!!
